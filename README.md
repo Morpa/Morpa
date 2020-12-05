@@ -1,26 +1,31 @@
+
 <h1 align="center">
-  <img src="https://github.com/arielff3/arielff3/blob/master/.github/dev2.gif?raw=true" alt="dev2" width="150px" />
-<img src="https://github.com/arielff3/arielff3/blob/master/.github/react.gif?raw=true" alt="react" width="150px" /> 
-<img src="https://github.com/arielff3/arielff3/blob/master/.github/dev.gif?raw=true" alt="dev" width="150px" /></h1>
+  <img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" alt="cat" width="150px" />
+</h1>
 </h1>
 
 <h1 align="center">
-  Hi 👋, I'm Morpa
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Morpa!
 </h1>
 
-<h3 align="center">FullStack Developer and Data Analyst</h3>
+<h3 align="center">Front End Developer</h3>
 
 ```javascript
 const morpa = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, React Native, Redux, Node, Styled-Components, Jest, Docker],
- challenge: "I am focused on react, node and typescript"
+  tools: [React, NextJS, Styled-Components, Jest, Apollo, GraphQL, Testing Library, Storybook, Cypress],
+ challenge: "I am focused on NextJS and typescript"
 }
 ```
 
+<br/>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=morpa&count_private=true&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=morpa&show_icons=true" alt="morpa" /> 
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morpa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://visitor-badge.glitch.me/badge?page_id=beatrizsabbatini.beatrizsabbatini)
+
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=morpa&repo=morpa)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
 
