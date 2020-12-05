@@ -23,7 +23,7 @@ const morpa = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morpa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://visitor-badge.glitch.me/badge?page_id=beatrizsabbatini.beatrizsabbatini)
+![](https://visitor-badge.glitch.me/badge?page_id=morpa.morpa)
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=morpa&repo=morpa)](https://github.com/anuraghazra/github-readme-stats) -->
 
