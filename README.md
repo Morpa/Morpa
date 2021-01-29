@@ -23,7 +23,6 @@ const morpa = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morpa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=morpa)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=morpa.morpa)
 
