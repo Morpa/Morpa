@@ -19,7 +19,9 @@ const morpa = {
 }
 ```
 
-<br/>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=morpa&count_private=true&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br/>[![Morpa's github stats](https://github-readme-stats.vercel.app/api?username=morpa&count_private=true&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Kelvin's github stats](https://github-readme-stats.vercel.app/api?username=morpa&show_icons=true&theme=nightowl)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morpa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
