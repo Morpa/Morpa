@@ -19,9 +19,8 @@ const morpa = {
 }
 ```
 
-<br/>[![Morpa's github stats](https://github-readme-stats.vercel.app/api?username=morpa&count_private=true&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/Morpa?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FLisbon)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morpa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=morpa.morpa)
