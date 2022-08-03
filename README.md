@@ -21,4 +21,4 @@ const morpa = {
 
 ![](https://visitor-badge.glitch.me/badge?page_id=morpa.morpa)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=morpa&repo=morpa)](https://github.com/anuraghazra/github-readme-stats)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=morpa&repo=morpa)](https://github.com/anuraghazra/github-readme-stats)
