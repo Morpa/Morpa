@@ -9,14 +9,3 @@
 </h1>
 
 <h3 align="center">Front End Developer</h3>
-
-```javascript
-const morpa = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, NextJS, Styled-Components, Jest, Apollo, GraphQL, Testing Library, Storybook, Cypress],
- challenge: "I am focused on NextJS and typescript"
-}
-```
-
-![](https://visitor-badge.glitch.me/badge?page_id=morpa.morpa)
