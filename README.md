@@ -18,6 +18,6 @@
       />
 </h1>
 
-# Blog posts
+<h1 align="center">Blog posts</h1>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
