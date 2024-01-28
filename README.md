@@ -17,3 +17,7 @@
         alt="Github stats"
       />
 </h1>
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
