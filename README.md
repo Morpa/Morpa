@@ -18,7 +18,7 @@
       />
 </h1>
 
-<h1 align="center">Blog posts</h1>
+📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [At the beginning...](https://morpablog.vercel.app/post/at-the-beginning)
 <!-- BLOG-POST-LIST:END -->
