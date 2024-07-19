@@ -20,5 +20,6 @@
 
 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter web](https://morpablog.vercel.app/post/flutter-web)
 - [At the beginning...](https://morpablog.vercel.app/post/at-the-beginning)
 <!-- BLOG-POST-LIST:END -->
