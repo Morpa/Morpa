@@ -20,6 +20,6 @@
 
 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Run the Flutter web app on a specific port](https://morpa-blog.netlify.app/posts/flutter/web/specific-port/)
-- [Hello world!](https://morpa-blog.netlify.app/posts/first-post/first-post/)
+- [Run the Flutter web app on a specific port](https://morpablog.netlify.app/posts/flutter/web/specific-port/)
+- [Hello world!](https://morpablog.netlify.app/posts/first-post/)
 <!-- BLOG-POST-LIST:END -->
