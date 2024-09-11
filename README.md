@@ -20,6 +20,7 @@
 
 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Run the Flutter web app on a specific port](https://morpablog.netlify.app/posts/flutter/web/specific-port/)
-- [Hello world!](https://morpablog.netlify.app/posts/first-post/)
+- [Textfield e Autocomplete - A arma secre­ta para uma entrada de dados eficiente](https://morpa.netlify.app/blog/textfield-autocomplete/)
+- [Run the Flutter web app on a specific port](https://morpa.netlify.app/blog/run-flutter-web-specific-port/)
+- [At the beginning...](https://morpa.netlify.app/blog/at-the-beginning/)
 <!-- BLOG-POST-LIST:END -->
