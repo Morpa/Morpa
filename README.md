@@ -13,9 +13,9 @@
 
 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Comunicação entre BLoCs](https://morpa.site/blog/bloc-mediator/)
 - [Figma para Flutter, uma extensão para altura de linha](https://morpa.site/blog/figma-flutter/)
 - [Criando indicadores de progresso personalizados no Flutter](https://morpa.site/blog/custom-loader/)
 - [Textfield e Autocomplete - A arma secre­ta para uma entrada de dados eficiente](https://morpa.site/blog/textfield-autocomplete/)
 - [Executar Flutter Web em uma porta específica](https://morpa.site/blog/specific-port/)
-- [E no início...](https://morpa.site/blog/at-beginning/)
 <!-- BLOG-POST-LIST:END -->
